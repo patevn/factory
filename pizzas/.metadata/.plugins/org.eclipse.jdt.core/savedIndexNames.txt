@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+C:\dev\head first\pizzas\.metadata\.plugins\org.eclipse.jdt.core
+3278969949.index
